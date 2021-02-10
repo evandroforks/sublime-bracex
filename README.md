@@ -1,6 +1,6 @@
 # BraceX
 
-Current Version: 2.0
+Current Version: 2.1.1
 
 Creates arbitrary strings via brace expansion much like Bash's.
 
